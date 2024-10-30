@@ -18,8 +18,8 @@ Link 👉 https://drive.google.com/file/d/1hbRptda3RE044oCY831-ceFn1M7PKQ4I/view
 
 #### Clone the repository and navigate to each project folder to install dependencies.
 ```bash
-  git clone https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-App.git
-  cd Full-Stack-Spotify-Clone-App
+  git clone https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-Website.git
+  cd Full-Stack-Spotify-Clone-Website
 ```
 #### Folder Setup
 The project is divided into three main folders: admin, frontend, and backend. You will need to install dependencies for each.
@@ -69,4 +69,4 @@ Ensure Cloudinary accounts are correctly configured and connected to your projec
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-App/blob/133c9c4dc7bab1e46c072106a6a59b877e317b7c/Img%20-%207.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-App/blob/133c9c4dc7bab1e46c072106a6a59b877e317b7c/Img%20-%208.png)
 
-<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
+<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
