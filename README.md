@@ -69,4 +69,4 @@ Ensure Cloudinary accounts are correctly configured and connected to your projec
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-App/blob/133c9c4dc7bab1e46c072106a6a59b877e317b7c/Img%20-%207.png)
 ![image alt](https://github.com/MrTharinduDasantha/Full-Stack-Spotify-Clone-App/blob/133c9c4dc7bab1e46c072106a6a59b877e317b7c/Img%20-%208.png)
 
-<h4 align="center"> Don't forget to leave a star ⭐️ </h4>
+<h3 align="center"> Don't forget to leave a star ⭐️ </h3>
